@@ -1,4 +1,6 @@
 # test
  test study
 
-Ｉam supposed to use English.
+this is my first time studying git.
+
+Ｉam happy.
