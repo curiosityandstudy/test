@@ -3,4 +3,4 @@
 
 this is my first time studying git.
 
-Ｉam happy.
+ｔｈｉｓ is interesting.
